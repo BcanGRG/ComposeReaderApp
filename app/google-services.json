@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891932839959",
+    "project_id": "jetareader-a1580",
+    "storage_bucket": "jetareader-a1580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891932839959:android:f258530030c9e0c3950c52",
+        "android_client_info": {
+          "package_name": "com.example.readerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891932839959-e269qdoor1oufmcdit1t45tvq1nbfnl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDibDk0Yt_bWtAhelrvh7Zz5C75LlBdGnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891932839959-e269qdoor1oufmcdit1t45tvq1nbfnl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
